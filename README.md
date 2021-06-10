@@ -13,3 +13,8 @@ Solutions of problems from CodinGame
 | [Stock Exchange Losses](https://www.codingame.com/ide/puzzle/stock-exchange-losses) | [C++](https://github.com/programmercave0/CodinGame-Solutions/blob/master/Stock_Exchange_Losses.cpp) | [Blog](https://programmercave0.github.io/blog/2021/03/17/Stock-Exchange-Losses-CodinGame-C++-Implementation)
 | [Sudoku Validator](https://www.codingame.com/ide/puzzle/sudoku-validator) | [C++](https://github.com/programmercave0/CodinGame-Solutions/blob/master/Sudoku_validator.cpp) | [Blog](https://programmercave0.github.io/blog/2020/07/13/SUDOKU-VALIDATOR-CodinGame-C++-Implementation) |
 
+Also check out :\
+[Competitive-Programming](https://github.com/programmercave0/Competitive-Programming)\
+[Algo-Data-Structure](https://github.com/programmercave0/Algo-Data-Structure)
+
+<a href="https://www.buymeacoffee.com/botman1001" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="41" width="174" ></a>
